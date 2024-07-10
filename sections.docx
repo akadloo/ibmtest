@@ -1,0 +1,133 @@
+IBM is pleased to present this Budget and Planning Estimate to Dillards Cognos Analytics Health check
+
+This Budget and Planning Estimate for IBM Software Services contains a preliminary planning estimate that can be used for project budgeting purposes. The estimate is based on preliminary presales information provided by you and is subject to change pending the inclusion of additional requirements or an increase in project scope.
+A formal contract for services, called a Statement of Work (SOW), must be jointly developed and executed before beginning the project. The SOW will provide detailed work estimates and a more precise description of the high-level project tasks described below, including the roles, responsibilities and assumptions used in determining the scope of this project.
+
+Proposed Project Scope
+This B&PE describes the proposed scope of the project. In this project IBM will provide services for:
+a. Cognos Analytics Health Check
+b. Cognos Analytics Environment Stability Assurance
+c. Education for Future Cognos Analytics Upgrades
+d. Review of Logs and Auditing of Database for User Activity
+e. Comparison of Dispatcher using a Tool
+f. 40-hour Health Check by a Cognos Infrastructure Architect
+
+Key Assumptions This B&PE and IBM's estimates are based on the following key assumptions. Changes to these assumptions could impact the pricing estimate. - Cognos Analytics Health Assessment includes review of production environment only - This engagement will be conducted remotely - Customer will ensure that IBM consultant(s) will readily have access to the VPN, OS layer. - Consultants may utilize additional IBM Cognos resources to identify resolutions to issues that arise during this engagement. - Project effort estimate is not a guarantee of completion of all project activates within the estimate. If additional effort is required by IBM, a Project Change Request (PCR) will be needed to proceed
+
+IBM Responsibilities:
+Under this SOW, IBM will undertake the following activities:
+
+Activity 1 - Project Management
+IBM will provide project management for the IBM responsibilities in the SOW. The purpose of this activity
+is to provide technical direction and control of IBM project personnel and to provide a framework for
+project planning, communications, reporting, procedural and contractual activity. This activity is
+composed of the following tasks:
+Planning
+- Review the SOW and the contractual responsibilities of both parties with your Project Manager.
+- Maintain project communications through your Project Manager.
+- Coordinate the establishment of the project environment.
+- Establish documentation and procedural standards for deliverable Materials.
+- Assist your project manager to prepare and maintain the project plan for the performance of the
+SOW which will include the product training plan, activities, tasks, assignments, milestones and
+estimates.
+- Review with you the hardware required for the performance of the SOW.
+Project Tracking and Reporting
+- Review project tasks, schedules, and resources and make changes or additions, as appropriate.
+Measure and evaluate progress against the project plan with your Project Manager.
+- Review the IBM standard invoice format and billing procedure to be used on the project, with your
+Project Manager.
+- Work with your Project Manager to address and resolve deviations from the project plan.
+- Conduct regularly scheduled project status meetings.
+- Report time spent on the project to your Project Manager.
+- Administer the Project Change Control Procedure with your Project Manager.
+- Coordinate and manage the technical activities of IBM project personnel.
+Completion Criteria:
+This is an ongoing activity which will be considered complete at the end of the Services.
+Deliverable Materials:
+Weekly Status Report
+
+
+Activity 2 - Cognos Analytics Health Check Service
+Under this activity, IBM will perform Services which include the following tasks:
+- Conduct meetings with core team and sponsor to review environment performance to support assessment approach
+- Review PMRs that relate to Cognos Analytics server installation, infrastructure and/or configuration
+- Verify IBM Cognos Software Conformance Check
+- Configuration Review of the IBM Cognos Analytics Software
+- Configure Tunable Parameters of the IBM Cognos Analytics Configuration
+- IBM Cognos Analytics Application Fail Over Test
+- Validate the Installation parameters of the IBM Cognos Analytics Content Store
+- Identify report performance bottlenecks
+- Perform Stability Load Testing services using IBM SDK Application
+- Review Health Check Document
+
+Tasks:
+- Conduct meetings with core team and sponsor to review environment performance to support assessment approach
+- Review PMRs that relate to Cognos Analytics server installation, infrastructure and/or configuration
+- Verify IBM Cognos Software Conformance Check
+- Configuration Review of the IBM Cognos Analytics Software
+- Configure Tunable Parameters of the IBM Cognos Analytics Configuration
+- IBM Cognos Analytics Application Fail Over Test
+- Validate the Installation parameters of the IBM Cognos Analytics Content Store
+- Identify report performance bottlenecks
+- Perform Stability Load Testing services using IBM SDK Application
+- Review Health Check Document
+
+Deliverable Materials:
+Cognos Analytics Health Check Assessment
+
+Completion Criteria:
+- Completion of all tasks listed above
+- Submission of Cognos Analytics Health Check Assessment deliverable
+
+
+
+2.4 Your Responsibilities 
+    The completion of the effort depends on the full commitment and participation of your management and
+    personnel.
+
+    The responsibilities listed in this section are to be provided at no charge to IBM. IBM's performance is 
+    predicated upon the following responsibilities being fulfilled by you, as scheduled in the project plan. 
+    Delays in performance of these responsibilities may result in additional cost and/or delay of the
+    completion of the project.
+
+    2.4.1 Your Project Manager
+    Prior to the start of this project, you will designate a person called your Project Manager who will be the
+    focal point for IBM communications relative to this project and will have the authority to act on behalf of 
+    you in all matters regarding this project. 
+
+    Your Project Manager's responsibilities include the following: 
+        a.  Manage your personnel and responsibilities for this project; 
+
+        b.  Serve as the interface between IBM and all your departments participating in the project;
+
+        c.  Administer the Project Change Control Procedure with the IBM Project Manager; 
+
+        d.  Participate in project status meetings; 
+
+        e.  Review with the IBM Project Manager any of your invoice or billing requirements. Such 
+            requirements that deviate from IBM's standard invoice format or billing procedures may have an 
+            effect on price, and will be managed through the Project Change Control Procedure in Appendix 
+            A-1; and "
+
+    System: Create a section similar to that in the following template, 2.4.2. Your Other Responsibilities You will:
+ a. Make appropriate personnel available to assist IBM in the performance of its responsibilities;
+
+ b. Provide safe access, suitable office space, supplies, furniture, high speed connectivity to the Internet, and other facilities needed by IBM personnel while working at Client’s location;
+
+ c. Supply all prerequisite hardware and software to be used during the performance of this SOW. This does not include any hardware or software normally used by IBM consultants in the performance of their day-to-day responsibilities with IBM;
+
+ d. Provide information and materials IBM requires to provide the Services. IBM will not be responsible for any loss, damage, delay, or deficiencies in the Services arising from inaccurate, incomplete, or otherwise deficient information or materials supplied by you or on behalf of you;
+
+ e. If making available any facilities, software, hardware or other resources in connection with IBM’s performance of Services, obtain at no cost to IBM any licenses or approvals related to these resources that may be necessary for IBM to perform the Services. IBM will be relieved of its obligations that are adversely affected by your failure to promptly obtain such licenses or approvals. You agree to reimburse IBM for any reasonable expenses, that IBM may incur from your failure to obtain these licenses or approvals;
+
+ f. Ensure that current maintenance, license, and other applicable agreements are in place with third parties whose work may affect IBM’s ability to provide the Services. Unless specifically agreed to otherwise in writing, Client is responsible for the management and performance of the third parties, and for any third-party hardware, software or communications equipment used in connection with the Services;
+
+ g. Be responsible for the identification of, interpretation of, and compliance with, any applicable laws, regulations, and statutes that affect your existing systems, applications, programs, or data to which IBM will have access during the Services, including applicable data privacy, export, import laws and regulations, and product safety and regulatory compliance for non-IBM products including those recommended by IBM. You are solely responsible for obtaining advice of legal counsel as to the compliance with such laws, and regulations;
+
+ h. Allow IBM to cite your company name and the general nature of the Services IBM performed for you to IBM’s other Clients and prospective Clients;
+
+ i. Obtain any necessary consents and take any other actions required by applicable laws, including but not limited to data privacy laws, prior to disclosing any of its employee information or other personal information or data to IBM. Client also agrees that with respect to data that is transferred or hosted, Client is responsible for ensuring that all such data adheres to the laws and regulations governing such data;
+
+ j. Be responsible for any data and the content of any database, the selection and implementation of procedures and controls regarding its access and, use, backup and recovery and security integrity of the stored data, not to be construed as eliminating IBM’s obligation in Clause 18 of the Agreement. This security will also include any procedures necessary to safeguard the integrity and security of software and data used in the Services from access by unauthorized personnel;
+
+ k. If IBM requires access to your production systems, provide the required hardware (either an assigned desktop or laptop system) for such access. Any hardware provided for this access will be secured at your location when not in use by IBM
